@@ -1,0 +1,11 @@
+1. Aadhar card no should be mandatory and it should be attach with aestrik sign.Floor and Wing should not be mandate option in address details.
+2. we should seperate the form as per the functionalities. For eg 1st page should be personal info, next page should be address info likewise.
+3. At the end of the page there is so much extra space and that should not be present in terms of UI Aesthetics and user experience.
+4. It should be easy to recall the user interface and how to use it on subsequent visits. So, a good design site means the user should learn from the first time and visit next time just as easily.
+5. The goal of this testing is to satisfy users and it mainly concentrates on the following parameters of a system:
+   The effectiveness of the system
+   Is the system is easy to learn?
+   Is the system useful and adds value to the target audience?
+   Are Content, Color, Icons, Images used are aesthetically pleasing?
+
+  So this above point does not fulfil the goal.
